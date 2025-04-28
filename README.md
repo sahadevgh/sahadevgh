@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahabia Yakubu</h1>
-<h3 align="center">A passionate developer from Ghana, Africa</h3>
+<h3 align="center">A passionate web3 developer from Ghana, Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahadevgh&label=Profile%20views&color=0e75b6&style=flat" alt="sahadevgh" /> </p>
 
@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [HackerBoost](https://www.hackerboost.org/)
 
-- 🌱 I’m currently learning **Zk-SNARK**
-
-- 💬 Ask me about **Web3, MERN and Education**
+- 💬 Ask me about **Web3, MERN and Business**
 
 - 📫 How to reach me **yakubukarim12@gmail.com**
 
